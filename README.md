@@ -13,24 +13,41 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-
-🎓 &nbsp; **BCA @ Bharati Vidyapeeth Deemed University** &nbsp;·&nbsp; GPA **8.95 / 10** &nbsp;·&nbsp; Graduating May 2026
-
-💼 &nbsp; **Cyber Intern @ CYNKEX** — building GRC automation & compliance systems &nbsp;·&nbsp; Pune, India 🇮🇳
-
-🔭 &nbsp; **Currently building:** GraphRAG fraud engines &nbsp;·&nbsp; Multimodal AI pipelines &nbsp;·&nbsp; ML-driven GRC systems
-
-🧠 &nbsp; **Interests:** Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI &nbsp;·&nbsp; NLP
-
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GPA-8.95%20%2F%2010-8B5CF6?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>Bharati Vidyapeeth Deemed University</b></sub><br/>
+<sub>BCA · Graduating May 2026</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>AI / ML / Data Science roles</b></sub><br/>
+<sub>Pune, India 🇮🇳</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Currently-Cyber%20Intern-3B82F6?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>CYNKEX</b></sub><br/>
+<sub>GRC Automation · Jan 2026–Present</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-4%20Internships-06B6D4?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>AI · Data Science · Cybersecurity</b></sub><br/>
+<sub>2024 – Present</sub>
+</td>
+</tr>
+</table>
 </div>
-
-<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Neeti%20Malu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-neetieportfolio.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://neetieportfolio.vercel.app)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-neetimalu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com)
+`Graph ML` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Cybersecurity AI` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `GraphRAG`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=flat-square&logo=vercel&logoColor=white)](https://neetieportfolio.vercel.app)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com)
 
 </div>
 

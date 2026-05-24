@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile+Views&color=blueviolet&style=flat" alt="neeti26" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=200&section=header&text=Hey,%20I'm%20Neeti%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20systems%20that%20detect%20fraud%2C%20automate%20compliance%2C%20and%20turn%20data%20into%20decisions&descAlignY=58&descSize=15&descColor=e2e8f0" width="100%"/>
 

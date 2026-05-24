@@ -27,73 +27,73 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [FraudGraph — Synthetic Identity Detection](https://graphrag-lime.vercel.app)
+**[FraudGraph — Synthetic Identity Detection](https://graphrag-lime.vercel.app)**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TigerGraph](https://img.shields.io/badge/TigerGraph-E4002B?style=flat-square&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
+![TigerGraph](https://img.shields.io/badge/TigerGraph-1a1a2e?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=white)
 
-Async **GraphRAG** inference engine for synthetic identity fraud detection
+Async GraphRAG inference engine for synthetic identity fraud detection.
 
-- ⚡ **94.5% reduction** in context-window token usage
-- 🚀 **70% lower query latency** — 600ms vs 2,050ms
-- 🕸️ WCC + PageRank + 3-hop BFS to expose fraud rings baseline LLMs missed
+- **94.5%** reduction in context-window token usage
+- **70% lower query latency** — 600ms vs 2,050ms
+- WCC + PageRank + 3-hop BFS to surface fraud rings baseline LLMs missed
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [StepOne Content Intelligence Engine](https://contentengine-rust.vercel.app)
+**[StepOne Content Intelligence Engine](https://contentengine-rust.vercel.app)**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square&logo=openai&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-1a1a2e?style=flat-square&logo=openai&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Multimodal AI pipeline for **zero-intervention** marketing asset generation
+Multimodal AI pipeline for zero-intervention marketing asset generation.
 
-- 📸 Ingests up to **20 raw event images**
-- ⏱️ Full multi-platform output in **under 3 minutes**
-- 🎯 4-dimensional GPT-4o Vision quality scoring matrix
+- Ingests up to **20 raw event images** per run
+- Full multi-platform output in **under 3 minutes**
+- 4-dimensional GPT-4o Vision quality scoring matrix
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Automated GRC Engine](https://grcautomation.vercel.app)
+**[Automated GRC Engine](https://grcautomation.vercel.app)**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
 
-Intelligent **compliance automation** engine for security operations
+Intelligent compliance automation engine for security operations.
 
-- 📋 Maps controls to **NIST & ISO 27001** frameworks
-- 🤖 ML-driven real-time policy violation flagging
-- 📄 Auto-generates audit-ready compliance reports
+- Maps controls to **NIST & ISO 27001** frameworks
+- ML-driven real-time policy violation flagging
+- Auto-generates audit-ready compliance reports
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Customer Emotion → Offer Mapper](https://github.com/neeti26/emotion_offer_mapper_project)
+**[Customer Emotion → Offer Mapper](https://github.com/neeti26/emotion_offer_mapper_project)**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=spacy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1a1a2e?style=flat-square&logo=spacy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white)
 
-Predictive model mapping **customer sentiment** to optimal product offers
+Predictive model mapping customer sentiment to optimal product offers.
 
-- 📈 **20% increase** in targeted offer relevance
-- 🏷️ Multi-class emotion classification pipeline
-- 🔧 Feature engineering + sentiment analysis
+- **20% increase** in targeted offer relevance
+- Multi-class emotion classification pipeline
+- Feature engineering + sentiment analysis
 
 </td>
 </tr>

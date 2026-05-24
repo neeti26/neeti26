@@ -12,59 +12,27 @@
 
 ## 👩‍💻 About Me
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;Building+intelligent+systems+from+the+ground+up." alt="subtitle" /></p>
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="50%" valign="top">
+<div align="center">
 
-```yaml
- Education:
-   degree : BCA — Computer Applications
-   university : Bharati Vidyapeeth Deemed University
-   gpa : 8.95 / 10.0
-   graduation : May 2026
-```
+🎓 &nbsp; **BCA @ Bharati Vidyapeeth Deemed University** &nbsp;·&nbsp; GPA **8.95 / 10** &nbsp;·&nbsp; Graduating May 2026
 
-</td>
-<td align="center" width="50%" valign="top">
+💼 &nbsp; **Cyber Intern @ CYNKEX** — building GRC automation & compliance systems &nbsp;·&nbsp; Pune, India 🇮🇳
 
-```yaml
- Currently:
-   role : Cyber Intern
-   company : CYNKEX, Pune
-   focus : GRC automation & compliance workflows
-   status : actively seeking AI / ML roles
-```
+🔭 &nbsp; **Currently building:** GraphRAG fraud engines &nbsp;·&nbsp; Multimodal AI pipelines &nbsp;·&nbsp; ML-driven GRC systems
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
+🧠 &nbsp; **Interests:** Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI &nbsp;·&nbsp; NLP
 
-```yaml
- Building:
-   - GraphRAG fraud detection engines
-   - Multimodal AI content pipelines
-   - ML-driven GRC automation systems
-```
+</div>
 
-</td>
-<td align="center" width="50%" valign="top">
+<br/>
 
-```yaml
- Interests:
-   - Graph ML & LLMs
-   - Computer Vision (YOLOv8)
-   - Cybersecurity AI & GRC
-   - NLP & Sentiment Analysis
-```
+<div align="center">
 
-</td>
-</tr>
-</table>
-<p align="center">
-  <a href="https://www.linkedin.com/in/neeti-malu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://neetieportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-neetieportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;<a href="mailto:neetimalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-neetimalu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-Neeti%20Malu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/-neetieportfolio.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://neetieportfolio.vercel.app)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-neetimalu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com)
+
+</div>
 
 ---
 

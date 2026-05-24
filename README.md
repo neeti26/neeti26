@@ -14,15 +14,27 @@
 
 <div align="center">
 
-🎓 &nbsp; BCA · Bharati Vidyapeeth Deemed University · GPA **8.95/10** · May 2026
+*I build AI systems that detect fraud, automate compliance, and turn raw data into decisions.*
 
-💼 &nbsp; Cyber Intern @ **CYNKEX** · GRC Automation & Compliance · Pune, India
+**BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10 · May 2026**
 
-🚀 &nbsp; Building GraphRAG fraud engines · Multimodal AI pipelines · GRC automation systems
+</div>
 
-🧠 &nbsp; Graph ML · LLMs · Computer Vision · Cybersecurity AI · NLP
+---
 
-🌐 &nbsp; [LinkedIn](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [Portfolio](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [Email](mailto:neetimalu@gmail.com)
+### 🚀 What I'm Working On
+
+- Designing a **GraphRAG fraud detection engine** using TigerGraph + Groq — 94.5% token reduction, 70% faster queries
+- Building a **Multimodal AI content pipeline** (GPT-4o Vision) that generates multi-platform assets in under 3 minutes
+- Automating **GRC compliance workflows** at CYNKEX — mapping real-time threats to NIST & ISO 27001 frameworks
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [Portfolio](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [Email](mailto:neetimalu@gmail.com)
 
 </div>
 

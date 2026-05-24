@@ -10,44 +10,33 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GPA-8.95%20%2F%2010-8B5CF6?style=for-the-badge&labelColor=1a1a2e" /><br/>
-<sub><b>Bharati Vidyapeeth Deemed University</b></sub><br/>
-<sub>BCA · Graduating May 2026</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1a1a2e" /><br/>
-<sub><b>AI / ML / Data Science roles</b></sub><br/>
-<sub>Pune, India 🇮🇳</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Currently-Cyber%20Intern-3B82F6?style=for-the-badge&labelColor=1a1a2e" /><br/>
-<sub><b>CYNKEX</b></sub><br/>
-<sub>GRC Automation · Jan 2026–Present</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-4%20Internships-06B6D4?style=for-the-badge&labelColor=1a1a2e" /><br/>
-<sub><b>AI · Data Science · Cybersecurity</b></sub><br/>
-<sub>2024 – Present</sub>
-</td>
-</tr>
-</table>
+
+**Data Scientist · AI Engineer · ML Engineer**
+
 </div>
-
-<div align="center">
-
-`Graph ML` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Cybersecurity AI` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `GraphRAG`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=flat-square&logo=vercel&logoColor=white)](https://neetieportfolio.vercel.app)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com)
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎓 **Education** | BCA, Bharati Vidyapeeth Deemed University &nbsp;·&nbsp; GPA **8.95 / 10** &nbsp;·&nbsp; May 2026 |
+| 💼 **Currently** | Cyber Intern @ **CYNKEX**, Pune &nbsp;·&nbsp; GRC automation & compliance systems |
+| 🚀 **Building** | GraphRAG fraud engines &nbsp;·&nbsp; Multimodal AI pipelines &nbsp;·&nbsp; GRC automation |
+| 🧠 **Interests** | Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI &nbsp;·&nbsp; NLP |
+| 📍 **Location** | Pune, India &nbsp;·&nbsp; Open to remote & hybrid roles |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[**LinkedIn**](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [**Portfolio**](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [**Email**](mailto:neetimalu@gmail.com)
 
 </div>
 

@@ -12,18 +12,77 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;Building+intelligent+systems+from+the+ground+up." alt="subtitle" />
+</p>
 
-| | |
-|:---:|:---|
-| 🎓 | **Education** &nbsp; BCA @ Bharati Vidyapeeth Deemed University &nbsp;·&nbsp; GPA: **8.95 / 10** |
-| 💼 | **Currently** &nbsp; Cyber Intern @ **CYNKEX** — automating GRC & compliance workflows |
-| 🔭 | **Building** &nbsp; GraphRAG fraud engines &nbsp;·&nbsp; AI content pipelines &nbsp;·&nbsp; GRC automation |
-| 🧠 | **Interests** &nbsp; Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI |
-| 🌍 | **Location** &nbsp; Pune, India 🇮🇳 |
-| 🤝 | **Let's connect** &nbsp; [![LinkedIn](https://img.shields.io/badge/Neeti%20Malu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neetieportfolio.vercel.app) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com) |
+<br/>
 
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="50%" valign="top">
+
+```yaml
+ Education:
+   degree : BCA — Computer Applications
+   university : Bharati Vidyapeeth Deemed University
+   gpa : 8.95 / 10.0
+   graduation : May 2026
+```
+
+</td>
+<td align="center" width="50%" valign="top">
+
+```yaml
+ Currently:
+   role : Cyber Intern
+   company : CYNKEX, Pune
+   focus : GRC automation & compliance workflows
+   status : actively seeking AI / ML roles
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+```yaml
+ Building:
+   - GraphRAG fraud detection engines
+   - Multimodal AI content pipelines
+   - ML-driven GRC automation systems
+```
+
+</td>
+<td align="center" width="50%" valign="top">
+
+```yaml
+ Interests:
+   - Graph ML & LLMs
+   - Computer Vision (YOLOv8)
+   - Cybersecurity AI & GRC
+   - NLP & Sentiment Analysis
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neeti-malu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://neetieportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-neetieportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:neetimalu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-neetimalu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 

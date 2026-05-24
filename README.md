@@ -14,29 +14,15 @@
 
 <div align="center">
 
-**Data Scientist · AI Engineer · ML Engineer**
+🎓 &nbsp; BCA · Bharati Vidyapeeth Deemed University · GPA **8.95/10** · May 2026
 
-</div>
+💼 &nbsp; Cyber Intern @ **CYNKEX** · GRC Automation & Compliance · Pune, India
 
-<br/>
+🚀 &nbsp; Building GraphRAG fraud engines · Multimodal AI pipelines · GRC automation systems
 
-<div align="center">
+🧠 &nbsp; Graph ML · LLMs · Computer Vision · Cybersecurity AI · NLP
 
-| | |
-|:--|:--|
-| 🎓 **Education** | BCA, Bharati Vidyapeeth Deemed University &nbsp;·&nbsp; GPA **8.95 / 10** &nbsp;·&nbsp; May 2026 |
-| 💼 **Currently** | Cyber Intern @ **CYNKEX**, Pune &nbsp;·&nbsp; GRC automation & compliance systems |
-| 🚀 **Building** | GraphRAG fraud engines &nbsp;·&nbsp; Multimodal AI pipelines &nbsp;·&nbsp; GRC automation |
-| 🧠 **Interests** | Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI &nbsp;·&nbsp; NLP |
-| 📍 **Location** | Pune, India &nbsp;·&nbsp; Open to remote & hybrid roles |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[**LinkedIn**](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [**Portfolio**](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [**Email**](mailto:neetimalu@gmail.com)
+🌐 &nbsp; [LinkedIn](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [Portfolio](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [Email](mailto:neetimalu@gmail.com)
 
 </div>
 

@@ -12,12 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;Building+intelligent+systems+from+the+ground+up." alt="subtitle" />
-</p>
-
-<br/>
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;Building+intelligent+systems+from+the+ground+up." alt="subtitle" /></p>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="50%" valign="top">
@@ -67,21 +62,8 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/neeti-malu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://neetieportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-neetieportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:neetimalu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-neetimalu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/neeti-malu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Neeti%20Malu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://neetieportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-neetieportfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;<a href="mailto:neetimalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-neetimalu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -167,39 +149,65 @@ Predictive model mapping customer sentiment to optimal product offers.
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,nextjs,react,ts,js,mysql,mongodb,aws,git,github,vscode,jupyter,vercel&theme=dark&perline=9" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TigerGraph-E4002B?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=lightning&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neeti26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=8B5CF6&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeti26&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neeti26&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6AD3F7&currStreakLabel=6AD3F7" />
+  <img src="https://img.shields.io/badge/YOLOv8-1a1a2e?style=flat-square&logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TigerGraph-1a1a2e?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-1a1a2e?style=flat-square&logo=lightning&logoColor=white"/>
 </p>
 
 ---
 
 ## 💼 Experience
 
-| | Role | Company | Period |
-|---|---|---|---|
-| 🔐 | Cyber Intern | CYNKEX | Jan 2026 – Present |
-| 🤖 | Artificial Intelligence Intern | Springboard | Oct – Dec 2025 |
-| 📊 | Data Analyst Intern | NIT Trichy | Mar – Aug 2025 |
-| 📈 | Data Science Intern | AdTech Digital | Dec 2024 – Jun 2025 |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔐 Cyber Intern — CYNKEX**
+`Jan 2026 – Present` &nbsp;|&nbsp; Pune, India · Onsite
+
+Automating GRC workflows and building ML-driven risk management systems that map real-time threat indicators to NIST and ISO 27001 compliance frameworks.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=white) ![GRC](https://img.shields.io/badge/GRC_Automation-1a1a2e?style=flat-square&logo=shield&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🤖 Artificial Intelligence Intern — Springboard**
+`Oct 2025 – Dec 2025` &nbsp;|&nbsp; Remote
+
+Built a Smart Traffic Management System using YOLOv8 and TensorFlow for real-time ANPR and vehicle classification. Integrated OpenCV pipelines for live video feed processing.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a2e?style=flat-square&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**📊 Data Analyst Intern — NIT Trichy**
+`Mar 2025 – Aug 2025` &nbsp;|&nbsp; Onsite
+
+Built ML classification models to detect fraudulent vehicle insurance claims, achieving **30% accuracy boost** via feature engineering and SMOTE oversampling. Tuned with GridSearchCV.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**📈 Data Science Intern — AdTech Digital**
+`Dec 2024 – Jun 2025` &nbsp;|&nbsp; Remote
+
+Optimized Power BI dashboards for marketing teams and identified a **15% drop in user retention** through cohort analysis, delivering insights that redirected campaign strategy for better ROI.
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 

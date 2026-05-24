@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile+Views&color=blueviolet&style=flat" alt="neeti26" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=200&section=header&text=Hey,%20I'm%20Neeti%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20systems%20that%20detect%20fraud%2C%20automate%20compliance%2C%20and%20turn%20data%20into%20decisions&descAlignY=58&descSize=15&descColor=e2e8f0" width="100%"/>
 
@@ -11,25 +12,18 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-🎓 &nbsp;**Education** &nbsp;&nbsp;&nbsp; BCA @ Bharati Vidyapeeth Deemed University &nbsp;·&nbsp; GPA: **8.95 / 10**
+| | |
+|:---:|:---|
+| 🎓 | **Education** &nbsp; BCA @ Bharati Vidyapeeth Deemed University &nbsp;·&nbsp; GPA: **8.95 / 10** |
+| 💼 | **Currently** &nbsp; Cyber Intern @ **CYNKEX** — automating GRC & compliance workflows |
+| 🔭 | **Building** &nbsp; GraphRAG fraud engines &nbsp;·&nbsp; AI content pipelines &nbsp;·&nbsp; GRC automation |
+| 🧠 | **Interests** &nbsp; Graph ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Cybersecurity AI |
+| 🌍 | **Location** &nbsp; Pune, India 🇮🇳 |
+| 🤝 | **Let's connect** &nbsp; [![LinkedIn](https://img.shields.io/badge/Neeti%20Malu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeti-malu/) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neetieportfolio.vercel.app) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neetimalu@gmail.com) |
 
-💼 &nbsp;**Currently** &nbsp;&nbsp;&nbsp;&nbsp; Cyber Intern @ **CYNKEX** — automating GRC & compliance workflows
-
-🔭 &nbsp;**Building** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GraphRAG fraud engines · AI content pipelines · GRC automation
-
-🧠 &nbsp;**Interests** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graph ML · LLMs · Computer Vision · Cybersecurity AI
-
-🌍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pune, India 🇮🇳
-
-📬 &nbsp;**Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neetimalu@gmail.com
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 

@@ -167,35 +167,6 @@ Optimized Power BI dashboards for marketing teams and identified a **15% drop in
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏅 Achievements**
-- 🥇 Rank 1 — App Challenges, IMED
-- 🥉 3rd Prize — Research Paper Competition, IMED
-- 🎖️ 1st Runner Up — TextTalk, IMED
-- 🚀 Top 50 Teams — QRAPTOR Hackathon
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-- ☁️ Oracle Cloud Infrastructure 2025 — Data Science Professional
-- ☁️ AWS Technical Essentials
-- ☁️ Generative AI with AWS
-- 🎓 Accenture UK Tech Apprenticeship Simulation
-
-</td>
-</tr>
-</table>
-
-**🌱 Affiliations:** Springboard Pragati Cohort 4 Mentee &nbsp;·&nbsp; AI EMPOWER HER Mentee &nbsp;·&nbsp; SheFi Scholar
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">

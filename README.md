@@ -192,13 +192,8 @@ Optimized Power BI dashboards for marketing teams and identified a **15% drop in
 ---
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-*Don't forget to leave a ⭐ if you find something useful!*
+<sub>Thanks for visiting — let's connect and build something great together 🚀</sub>
 <br/>
-*Thanks for visiting — let's connect and build something great together 🚀*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=100&section=footer" width="100%"/>
 </div>

@@ -28,73 +28,69 @@
 
 ---
 
-## Featured Projects
+## 🛠️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[FraudGraph — Synthetic Identity Detection](https://graphrag-lime.vercel.app)**
+### 🔍 [FraudGraph — Synthetic Identity Detection](https://graphrag-lime.vercel.app)
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
 ![TigerGraph](https://img.shields.io/badge/TigerGraph-1a1a2e?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=white)
+[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://graphrag-lime.vercel.app)
 
 Async GraphRAG inference engine for synthetic identity fraud detection.
 
-- **94.5%** reduction in context-window token usage
-- **70% lower query latency** — 600ms vs 2,050ms
-- WCC + PageRank + 3-hop BFS to surface fraud rings baseline LLMs missed
+> ⚡ **94.5%** token reduction &nbsp;·&nbsp; 🚀 **70% faster** queries &nbsp;·&nbsp; 🕸️ WCC + PageRank + 3-hop BFS
 
 </td>
 <td width="50%" valign="top">
 
-**[StepOne Content Intelligence Engine](https://contentengine-rust.vercel.app)**
+### 🧠 [StepOne Content Intelligence Engine](https://contentengine-rust.vercel.app)
 
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-1a1a2e?style=flat-square&logo=openai&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://contentengine-rust.vercel.app)
 
 Multimodal AI pipeline for zero-intervention marketing asset generation.
 
-- Ingests up to **20 raw event images** per run
-- Full multi-platform output in **under 3 minutes**
-- 4-dimensional GPT-4o Vision quality scoring matrix
+> 📸 **20 images** ingested &nbsp;·&nbsp; ⏱️ Output in **< 3 minutes** &nbsp;·&nbsp; 🎯 4D quality scoring
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Automated GRC Engine](https://grcautomation.vercel.app)**
+### 🛡️ [Automated GRC Engine](https://grcautomation.vercel.app)
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
+[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://grcautomation.vercel.app)
 
 Intelligent compliance automation engine for security operations.
 
-- Maps controls to **NIST & ISO 27001** frameworks
-- ML-driven real-time policy violation flagging
-- Auto-generates audit-ready compliance reports
+> 📋 **NIST & ISO 27001** mapped &nbsp;·&nbsp; 🤖 Real-time violation flagging &nbsp;·&nbsp; 📄 Audit-ready reports
 
 </td>
 <td width="50%" valign="top">
 
-**[Customer Emotion → Offer Mapper](https://github.com/neeti26/emotion_offer_mapper_project)**
+### 💬 [Customer Emotion → Offer Mapper](https://github.com/neeti26/emotion_offer_mapper_project)
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-1a1a2e?style=flat-square&logo=spacy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white)
+[![Code](https://img.shields.io/badge/View%20Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/neeti26/emotion_offer_mapper_project)
 
 Predictive model mapping customer sentiment to optimal product offers.
 
-- **20% increase** in targeted offer relevance
-- Multi-class emotion classification pipeline
-- Feature engineering + sentiment analysis
+> 📈 **20% increase** in offer relevance &nbsp;·&nbsp; 🏷️ Multi-class emotion classification
 
 </td>
 </tr>

@@ -1,91 +1,129 @@
 <img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
 
 <p align="center">
-  <svg width="100%" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #020617 0%, #111827 50%, #0f172a 100%);">
     <defs>
-      <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#020617" />
-        <stop offset="50%" stop-color="#111827" />
-        <stop offset="100%" stop-color="#0f172a" />
+      <linearGradient id="neuralFlow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#00d9ff" />
+        <stop offset="50%" stop-color="#0084ff" />
+        <stop offset="100%" stop-color="#7c3aed" />
       </linearGradient>
-      <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#67e8f9" />
-        <stop offset="45%" stop-color="#8b5cf6" />
-        <stop offset="100%" stop-color="#0f172a" />
+      <radialGradient id="brainCore" cx="40%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#00ffff" stop-opacity="0.8" />
+        <stop offset="40%" stop-color="#0084ff" stop-opacity="0.6" />
+        <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.2" />
       </radialGradient>
-      <linearGradient id="wireGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#22d3ee" />
-        <stop offset="100%" stop-color="#8b5cf6" />
-      </linearGradient>
-      <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-        <feGaussianBlur stdDeviation="8" result="blur" />
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="4" result="coloredBlur" />
         <feMerge>
-          <feMergeNode in="blur" />
+          <feMergeNode in="coloredBlur" />
           <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
-      <filter id="depth" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.45" />
+      <filter id="deepGlow">
+        <feGaussianBlur stdDeviation="8" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
       </filter>
     </defs>
-    <rect x="0" y="0" width="1200" height="340" rx="28" fill="url(#bgGlow)" />
-    <circle cx="980" cy="78" r="140" fill="#1d4ed8" opacity="0.16" />
-    <circle cx="240" cy="270" r="180" fill="#8b5cf6" opacity="0.14" />
-    <g filter="url(#depth)">
-      <circle cx="600" cy="170" r="86" fill="url(#coreGlow)" opacity="0.95" />
-      <circle cx="600" cy="170" r="56" fill="#e0f2fe" opacity="0.16" />
-      <circle cx="600" cy="170" r="38" fill="#f8fafc" opacity="0.18" />
-      <path d="M600 86 L600 254" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
-      <path d="M520 115 L680 225" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
-      <path d="M520 225 L680 115" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
+    
+    <!-- Brain hemisphere outline -->
+    <g filter="url(#deepGlow)">
+      <path d="M 380 180 Q 400 140 420 120 Q 440 100 460 90 Q 480 85 500 90 Q 520 95 540 110 Q 560 125 570 145 Q 580 165 575 185 Q 570 205 560 220 Q 550 230 535 235 Q 520 240 500 238 Q 480 235 460 230 Q 440 225 420 220 Q 400 215 385 205 Q 375 195 380 180 Z" fill="url(#brainCore)" stroke="#00ffff" stroke-width="2" opacity="0.9" />
+      
+      <!-- Brain convolutions -->
+      <path d="M 420 150 Q 430 145 440 150" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.8" />
+      <path d="M 420 170 Q 435 165 450 170" fill="none" stroke="#0084ff" stroke-width="2" opacity="0.7" />
+      <path d="M 425 190 Q 440 188 455 192" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.8" />
+      <path d="M 430 210 Q 445 208 460 212" fill="none" stroke="#0084ff" stroke-width="2" opacity="0.7" />
     </g>
-    <g filter="url(#softGlow)">
-      <g transform="translate(600 170) rotate(-28)">
-        <rect x="-95" y="-95" width="190" height="190" rx="34" fill="none" stroke="url(#wireGlow)" stroke-width="3" />
-        <rect x="-66" y="-66" width="132" height="132" rx="24" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.7" />
-        <path d="M-90 0 L-66 0" stroke="url(#wireGlow)" stroke-width="3" />
-        <path d="M66 0 L90 0" stroke="url(#wireGlow)" stroke-width="3" />
-        <path d="M0 -90 L0 -66" stroke="url(#wireGlow)" stroke-width="3" />
-        <path d="M0 66 L0 90" stroke="url(#wireGlow)" stroke-width="3" />
-      </g>
-      <g stroke="url(#wireGlow)" stroke-width="3" fill="none" stroke-linecap="round">
-        <path d="M360 128 C430 92, 490 92, 540 128" />
-        <path d="M660 212 C730 248, 790 248, 840 212" />
-        <path d="M360 212 C430 248, 490 248, 540 212" />
-        <path d="M660 128 C730 92, 790 92, 840 128" />
-      </g>
-      <circle cx="352" cy="128" r="7" fill="#67e8f9" />
-      <circle cx="540" cy="128" r="7" fill="#8b5cf6" />
-      <circle cx="352" cy="212" r="7" fill="#8b5cf6" />
-      <circle cx="540" cy="212" r="7" fill="#67e8f9" />
-      <circle cx="840" cy="128" r="7" fill="#67e8f9" />
-      <circle cx="840" cy="212" r="7" fill="#8b5cf6" />
+    
+    <!-- Binary/AI pattern inside brain -->
+    <g font-family="monospace" font-size="10" fill="#00ffff" opacity="0.6" filter="url(#glow)">
+      <text x="420" y="155">1</text>
+      <text x="435" y="145">0</text>
+      <text x="450" y="160">1</text>
+      <text x="428" y="175">1</text>
+      <text x="445" y="185">0</text>
+      <text x="460" y="175">1</text>
+      <text x="420" y="200">0</text>
+      <text x="440" y="210">1</text>
+      <text x="455" y="200">1</text>
+      <text x="430" y="220">1</text>
+      <text x="450" y="228">0</text>
     </g>
-    <g font-family="Segoe UI, Arial, sans-serif" fill="#f8fafc">
-      <text x="92" y="124" font-size="24" font-weight="700" letter-spacing="3">NEETI AI</text>
-      <text x="92" y="160" font-size="44" font-weight="800">Building the future of intelligence</text>
-      <text x="92" y="198" font-size="20" fill="#cbd5e1">GraphRAG • Multimodal Systems • GRC Automation • Agentic AI</text>
+    
+    <!-- Neural connections - left side (input) -->
+    <g stroke="url(#neuralFlow)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85" filter="url(#glow)">
+      <path d="M 200 140 Q 280 160 380 180" />
+      <path d="M 200 180 Q 290 180 380 190" />
+      <path d="M 200 220 Q 280 200 380 200" />
+      <path d="M 200 260 Q 290 220 380 210" />
     </g>
+    
+    <!-- Input node points (left) -->
+    <circle cx="200" cy="140" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
+    <circle cx="200" cy="180" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
+    <circle cx="200" cy="220" r="5" fill="#0084ff" opacity="0.8" filter="url(#glow)" />
+    <circle cx="200" cy="260" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
+    
+    <!-- Central brain sphere -->
+    <circle cx="470" cy="190" r="95" fill="none" stroke="url(#neuralFlow)" stroke-width="3" opacity="0.5" />
+    <circle cx="470" cy="190" r="75" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.4" />
+    
+    <!-- Neural connections - right side (output) -->
+    <g stroke="url(#neuralFlow)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85" filter="url(#glow)">
+      <path d="M 560 165 Q 700 145 900 110" />
+      <path d="M 565 190 Q 720 180 920 170" />
+      <path d="M 560 215 Q 700 220 900 250" />
+      <path d="M 555 235 Q 710 250 920 290" />
+    </g>
+    
+    <!-- Output node points (right) -->
+    <circle cx="900" cy="110" r="5" fill="#7c3aed" opacity="0.9" filter="url(#glow)" />
+    <circle cx="920" cy="170" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
+    <circle cx="900" cy="250" r="5" fill="#7c3aed" opacity="0.9" filter="url(#glow)" />
+    <circle cx="920" cy="290" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
+    
+    <!-- Circuit-like nodes -->
+    <g fill="#00ffff" opacity="0.7" filter="url(#glow)">
+      <circle cx="650" cy="120" r="4" />
+      <circle cx="680" cy="145" r="4" />
+      <circle cx="720" cy="160" r="4" />
+      <circle cx="750" cy="140" r="4" />
+      <circle cx="800" cy="120" r="4" />
+      <circle cx="650" cy="260" r="4" />
+      <circle cx="680" cy="235" r="4" />
+      <circle cx="720" cy="250" r="4" />
+      <circle cx="760" cy="270" r="4" />
+      <circle cx="810" cy="280" r="4" />
+    </g>
+    
+    <!-- Text labels -->
+    <g font-family="Arial, sans-serif" fill="#f8fafc" font-weight="700">
+      <text x="80" y="340" font-size="32" font-weight="800">Neeti Malu</text>
+      <text x="80" y="375" font-size="18" font-weight="600" fill="#cbd5e1">AI Systems Engineer | GraphRAG | Multimodal AI | GRC Automation</text>
+      <text x="80" y="405" font-size="14" fill="#94a3b8">Building intelligent systems that turn data into decisions</text>
+    </g>
+    
+    <!-- Animated pulse effect markers -->
+    <circle cx="470" cy="190" r="90" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.2" />
   </svg>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Building+the+future+of+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;Designing+systems+that+think%2C+reason%2C+and+act;Open+to+high-impact+AI%2FML%2FData+Science+roles+%F0%9F%9A%80" alt="typing animation" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=neeti26&theme=react-dark&bg_color=020617&color=8b5cf6&line=06b6d4&point=ffffff&hide_border=true" alt="activity graph" />
-</p>
+## 🚀 Who I Am
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,fastapi,tigergraph,graphql,typescript,git" alt="tech stack icons" />
-</p>
+I'm an **AI Engineer** passionate about building intelligent systems that think, reason, and act at production scale. I work across **GraphRAG**, **multimodal AI**, **computer vision**, **NLP**, and **compliance automation**—turning complex problems into elegant AI solutions.
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+My focus is on creating **high-performance, reasoning-first AI** systems that move beyond pattern matching to true intelligence. I've built fraud detection engines that reduce noise by 94.5%, multimodal pipelines that generate assets in minutes, and GRC automation that maps real-time threats to compliance frameworks.
+
+**What drives me:** Building the next generation of AI products that are faster, smarter, and more reliable. Open to collaborating on **high-impact AI/ML projects**, **research**, and **product development** opportunities.
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/neeti-malu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

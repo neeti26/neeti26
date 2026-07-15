@@ -21,11 +21,11 @@
 
 ## ✦ About Me
 
-I design intelligent systems that turn messy data into decisions, automation, and real-world impact. My work sits at the intersection of AI, graph intelligence, multimodal pipelines, and compliance tech.
+I build intelligent systems that turn complex data into reliable decisions, automation, and measurable business impact. My work spans AI product development, graph-based reasoning, multimodal workflows, and compliance technology.
 
 - 🎓 BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10
-- 🔐 Currently building AI systems for fraud detection, GRC automation, and intelligent content workflows
-- ⚡ Interested in production-grade LLM apps, graph-based reasoning, and applied machine learning
+- 🔐 Building AI solutions for fraud intelligence, risk automation, and intelligent content generation
+- ⚡ Focused on production-grade LLM applications, applied machine learning, and scalable data systems
 
 ---
 
@@ -65,9 +65,9 @@ I design intelligent systems that turn messy data into decisions, automation, an
 ![TigerGraph](https://img.shields.io/badge/TigerGraph-7C3AED?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-An AI-native fraud detection system powered by GraphRAG, designed to uncover suspicious patterns faster and with less token overhead.
+A graph-powered fraud intelligence platform designed to surface suspicious patterns with greater precision and lower inference cost.
 
-> ⚡ High-efficiency retrieval · 🕸️ Graph-based reasoning · 🧠 LLM-assisted decision support
+> ⚡ Efficient retrieval · 🕸️ Graph reasoning · 🧠 Decision support at scale
 
 </td>
 <td width="50%" valign="top">
@@ -78,9 +78,9 @@ An AI-native fraud detection system powered by GraphRAG, designed to uncover sus
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-06B6D4?style=flat-square&logo=openai&logoColor=white)
 
-A multimodal pipeline for turning raw content inputs into polished, multi-platform assets in minutes.
+A multimodal pipeline that transforms raw inputs into polished, multi-platform assets with minimal manual overhead.
 
-> 📸 Vision + language workflows · ⚙️ Fast prototyping · 🎯 Quality scoring loops
+> 📸 Vision + language workflows · ⚙️ Rapid prototyping · 🎯 Quality scoring loops
 
 </td>
 </tr>
@@ -93,9 +93,9 @@ A multimodal pipeline for turning raw content inputs into polished, multi-platfo
 ![ML](https://img.shields.io/badge/ML-7C3AED?style=flat-square&logo=scikit-learn&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-A compliance automation layer that maps live alerts to frameworks and surfaces actionable risk signals.
+A compliance automation layer that maps alerts to regulatory frameworks and surfaces actionable risk signals.
 
-> 📋 NIST + ISO 27001 mapping · 🤖 Real-time risk prioritization · 📄 Audit-ready reporting
+> 📋 NIST + ISO 27001 mapping · 🤖 Risk prioritization · 📄 Audit-ready reporting
 
 </td>
 <td width="50%" valign="top">
@@ -106,9 +106,9 @@ A compliance automation layer that maps live alerts to frameworks and surfaces a
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=spacy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-06B6D4?style=flat-square&logo=scikit-learn&logoColor=white)
 
-A machine learning project that links emotional signals to better-targeted product recommendations.
+A machine-learning project that connects behavioral signals to more relevant, high-performing recommendations.
 
-> 📈 Better relevance · 🏷️ Multi-class intent modeling · 🧪 Data-first experimentation
+> 📈 Better relevance · 🏷️ Intent modeling · 🧪 Data-driven experimentation
 
 </td>
 </tr>

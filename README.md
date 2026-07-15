@@ -1,7 +1,29 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/neeti26)
 
 <div align="center">
-  <img src="https://specials-images.forbesimg.com/imageserve/64b5825a5b9b4d3225e9bd15/960x0.jpg" alt="AI Neural Network" width="100%" />
+  <svg width="100%" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="edgeGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#67e8f9" />
+        <stop offset="50%" stop-color="#8b5cf6" />
+        <stop offset="100%" stop-color="#f0abfc" />
+      </linearGradient>
+      <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="10" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <rect x="8" y="8" width="1184" height="504" rx="28" fill="rgba(2,6,23,0.78)" stroke="url(#edgeGlow)" stroke-width="2.5" filter="url(#softGlow)">
+      <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+    </rect>
+    <image href="https://specials-images.forbesimg.com/imageserve/64b5825a5b9b4d3225e9bd15/960x0.jpg" x="24" y="24" width="1152" height="472" preserveAspectRatio="xMidYMid slice" opacity="0.96" filter="url(#softGlow)" />
+    <rect x="20" y="20" width="1160" height="480" rx="24" fill="none" stroke="#67e8f9" stroke-width="2" stroke-dasharray="12 14" opacity="0.7">
+      <animate attributeName="stroke-dashoffset" values="0;260" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </svg>
 </div>
 
 ---

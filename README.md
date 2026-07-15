@@ -7,12 +7,15 @@
 ---
 
 <div align="center">
-  <div style="display:inline-block; padding:20px 28px; border:1px solid rgba(255,255,255,0.14); border-radius:20px; background:linear-gradient(135deg, rgba(0,217,255,0.14), rgba(124,58,237,0.16)); box-shadow:0 0 30px rgba(0,217,255,0.16);">
-    <h1 style="margin:0; font-family:'Segoe UI', 'Trebuchet MS', Arial, sans-serif; font-size:42px; font-weight:800; letter-spacing:2px; background:linear-gradient(90deg, #00f5ff, #7c3aed, #00d9ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 22px rgba(0,245,255,0.25);">Neeti Malu</h1>
-    <p style="margin:10px 0 0; font-size:18px; font-weight:700; color:#e2e8f0; letter-spacing:1.2px;">
-      <span style="color:#00d9ff;">AI Systems Engineer</span> • <span style="color:#8b5cf6;">GraphRAG</span> • <span style="color:#38bdf8;">Multimodal AI</span> • <span style="color:#a78bfa;">Compliance Automation</span>
-    </p>
-    <p style="margin:10px 0 0; font-size:15px; font-style:italic; color:#cbd5e1; letter-spacing:0.7px;">
+  <div style="display:inline-block; padding:24px 32px; margin:10px 0 18px; border:1px solid rgba(255,255,255,0.14); border-radius:24px; background:linear-gradient(135deg, rgba(2,6,23,0.96), rgba(17,24,39,0.92)); box-shadow:0 0 35px rgba(0,217,255,0.16);">
+    <h1 style="margin:0 0 10px; font-family:'Segoe UI', 'Trebuchet MS', Arial, sans-serif; font-size:46px; font-weight:900; letter-spacing:2.5px; line-height:1.1; background:linear-gradient(90deg, #67e8f9 0%, #818cf8 45%, #f0abfc 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 22px rgba(103,232,249,0.23);">Neeti Malu</h1>
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:8px;">
+      <span style="padding:4px 10px; border-radius:999px; background:rgba(0,217,255,0.12); color:#67e8f9; font-weight:700; font-size:13px; border:1px solid rgba(103,232,249,0.25);">AI Systems Engineer</span>
+      <span style="padding:4px 10px; border-radius:999px; background:rgba(124,58,237,0.14); color:#c4b5fd; font-weight:700; font-size:13px; border:1px solid rgba(192,132,252,0.25);">GraphRAG</span>
+      <span style="padding:4px 10px; border-radius:999px; background:rgba(56,189,248,0.12); color:#7dd3fc; font-weight:700; font-size:13px; border:1px solid rgba(125,211,252,0.25);">Multimodal AI</span>
+      <span style="padding:4px 10px; border-radius:999px; background:rgba(167,139,250,0.14); color:#ddd6fe; font-weight:700; font-size:13px; border:1px solid rgba(167,139,250,0.25);">Compliance Automation</span>
+    </div>
+    <p style="margin:12px 0 0; font-size:15px; font-style:italic; color:#cbd5e1; letter-spacing:0.8px;">
       Building intelligent systems that turn data into decisions
     </p>
   </div>
@@ -20,13 +23,19 @@
 
 ---
 
-## 🚀 Who I Am
+## ✦ Who I Am
 
-I'm an **AI Engineer** passionate about building intelligent systems that think, reason, and act at production scale. I work across **GraphRAG**, **multimodal AI**, **computer vision**, **NLP**, and **compliance automation**—turning complex problems into elegant AI solutions.
-
-My focus is on creating **high-performance, reasoning-first AI** systems that move beyond pattern matching to true intelligence. I've built fraud detection engines that reduce noise by 94.5%, multimodal pipelines that generate assets in minutes, and GRC automation that maps real-time threats to compliance frameworks.
-
-**What drives me:** Building the next generation of AI products that are faster, smarter, and more reliable. Open to collaborating on **high-impact AI/ML projects**, **research**, and **product development** opportunities.
+<div style="padding:18px 22px; border-left:3px solid #00d9ff; border-radius:16px; background:linear-gradient(90deg, rgba(0,217,255,0.10), rgba(124,58,237,0.06)); box-shadow:0 0 20px rgba(0,217,255,0.08);">
+<p style="margin:0 0 12px; font-size:16px; line-height:1.7; color:#e2e8f0;">
+I'm an <strong style="color:#67e8f9;">AI Engineer</strong> passionate about building intelligent systems that think, reason, and act at production scale. I work across <strong style="color:#c4b5fd;">GraphRAG</strong>, <strong style="color:#7dd3fc;">multimodal AI</strong>, <strong style="color:#f0abfc;">computer vision</strong>, <strong style="color:#93c5fd;">NLP</strong>, and <strong style="color:#ddd6fe;">compliance automation</strong>—turning complex problems into elegant AI solutions.
+</p>
+<p style="margin:0 0 12px; font-size:16px; line-height:1.7; color:#e2e8f0;">
+My focus is on creating <strong style="color:#67e8f9;">high-performance, reasoning-first AI</strong> systems that move beyond pattern matching to true intelligence. I've built fraud detection engines that reduce noise by 94.5%, multimodal pipelines that generate assets in minutes, and GRC automation that maps real-time threats to compliance frameworks.
+</p>
+<p style="margin:0; font-size:16px; line-height:1.7; color:#e2e8f0;">
+<strong style="color:#f0abfc;">What drives me:</strong> Building the next generation of AI products that are faster, smarter, and more reliable. Open to collaborating on <strong style="color:#7dd3fc;">high-impact AI/ML projects</strong>, <strong style="color:#c4b5fd;">research</strong>, and <strong style="color:#67e8f9;">product development</strong> opportunities.
+</p>
+</div>
 
 ---
 

@@ -1,12 +1,12 @@
-<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Neeti%20Malu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:7c3aed,100:06b6d4&height=240&section=header&text=Neeti%20Malu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+high-impact+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;Turning+complex+data+into+reliable+decision+systems;Open+to+AI%2FML%2FData+Science+opportunities+%F0%9F%9A%80" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Building+the+future+of+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;Designing+systems+that+think%2C+reason%2C+and+act;Open+to+high-impact+AI%2FML%2FData+Science+roles+%F0%9F%9A%80" alt="typing animation" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## ✦ About
 
-I build intelligent systems that turn complex data into practical decisions, automation, and measurable business impact. My work sits at the intersection of AI product development, graph intelligence, multimodal workflows, and compliance technology.
+I build intelligent systems that turn complex data into practical decisions, automation, and measurable impact. My work sits at the intersection of AI product development, graph intelligence, multimodal workflows, and compliance technology.
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I build intelligent systems that turn complex data into practical decisions, aut
 
 ---
 
-## ⚡ What I Work On
+## ⚡ Core Focus
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20high-impact%20AI%20roles-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
@@ -45,7 +45,7 @@ I build intelligent systems that turn complex data into practical decisions, aut
   <img src="https://img.shields.io/badge/Mode-Shipping%20AI%20products-10B981?style=for-the-badge&logo=cpu&logoColor=white" />
 </div>
 
-> I’m interested in building systems that reason over relationships, understand multimodal input, and automate critical decisions with reliability.
+> I create systems that reason over relationships, understand multimodal input, and automate critical decisions with reliability.
 
 - 🕸️ Designing graph-native retrieval systems for intelligence and reasoning
 - 🧠 Building multimodal pipelines that turn raw inputs into polished outputs
@@ -53,7 +53,7 @@ I build intelligent systems that turn complex data into practical decisions, aut
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Signature Projects
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ I build intelligent systems that turn complex data into practical decisions, aut
 ![TigerGraph](https://img.shields.io/badge/TigerGraph-7C3AED?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-A graph-powered fraud intelligence platform engineered to uncover suspicious patterns with higher precision and lower inference cost.
+An advanced graph-powered fraud intelligence platform engineered to uncover suspicious patterns with higher precision and lower inference cost.
 
 > ⚡ Efficient retrieval · 🕸️ Graph reasoning · 🧠 Decision support at scale
 

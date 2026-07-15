@@ -1,108 +1,114 @@
-<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile+Views&color=blueviolet&style=flat" alt="neeti26" />
+<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=200&section=header&text=Hey,%20I'm%20Neeti%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20systems%20that%20detect%20fraud%2C%20automate%20compliance%2C%20and%20turn%20data%20into%20decisions&descAlignY=58&descSize=15&descColor=e2e8f0" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:06b6d4&height=220&section=header&text=Neeti%20Malu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=62&descSize=15&descColor=e2e8f0" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;94.5%25+token+reduction+in+fraud+detection+engine+%E2%9A%A1;Multimodal+AI+pipelines+%7C+Graph+Algorithms+%7C+LLMs;Data+Scientist+%40+NIT+Trichy+%7C+AI+Intern+%40+Springboard;Open+to+AI+%2F+ML+%2F+Data+Science+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+the+next+wave+of+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;From+raw+data+to+autonomous+decision+systems;Open+to+high-impact+AI+%2F+ML+roles+%F0%9F%9A%80" alt="typing animation" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/neeti-malu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://neetieportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:neetimalu@gmail.com"><img src="https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## About Me
+## ✦ About Me
+
+I design intelligent systems that turn messy data into decisions, automation, and real-world impact. My work sits at the intersection of AI, graph intelligence, multimodal pipelines, and compliance tech.
+
+- 🎓 BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10
+- 🔐 Currently building AI systems for fraud detection, GRC automation, and intelligent content workflows
+- ⚡ Interested in production-grade LLM apps, graph-based reasoning, and applied machine learning
+
+---
+
+## ⚡ Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20high%20impact%20AI%20roles-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-06B6D4?style=for-the-badge&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Shipping%20production%20AI-10B981?style=for-the-badge&logo=cpu&logoColor=white" />
+</div>
+
+> Building systems that reason over relationships, understand multimodal inputs, and automate decisions at product scale.
 
 <div align="center">
 
-*I build AI systems that detect fraud, automate compliance, and turn raw data into decisions.*
-
-**BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10 · May 2026**
-
-</div>
-
----
-
-### 🚀 What I'm Working On
-
-- Designing a **GraphRAG fraud detection engine** using TigerGraph + Groq — 94.5% token reduction, 70% faster queries
-- Building a **Multimodal AI content pipeline** (GPT-4o Vision) that generates multi-platform assets in under 3 minutes
-- Automating **GRC compliance workflows** at CYNKEX — mapping real-time threats to NIST & ISO 27001 frameworks
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/neeti-malu/) &nbsp;·&nbsp; [Portfolio](https://neetieportfolio.vercel.app) &nbsp;·&nbsp; [Email](mailto:neetimalu@gmail.com)
+<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GraphRAG-Fraud%20Intelligence-8B5CF6?style=for-the-badge&logo=graph&logoColor=white" /></a>
+<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/Multimodal-AI%20Pipelines-06B6D4?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GRC-Automation-10B981?style=for-the-badge&logo=shield&logoColor=white" /></a>
 
 </div>
 
+- 🕸️ Designing graph-native retrieval systems that reduce noise and improve reasoning quality
+- 🧠 Building multimodal pipelines that turn images, text, and context into rapid creative output
+- 🛡️ Automating compliance and risk-critical workflows with intelligent decision layers
+
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [FraudGraph — Synthetic Identity Detection](https://graphrag-lime.vercel.app)
+### 🔍 FraudGraph
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
-![TigerGraph](https://img.shields.io/badge/TigerGraph-1a1a2e?style=flat-square&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=white)
-[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://graphrag-lime.vercel.app)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![TigerGraph](https://img.shields.io/badge/TigerGraph-7C3AED?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-Async GraphRAG inference engine for synthetic identity fraud detection.
+An AI-native fraud detection system powered by GraphRAG, designed to uncover suspicious patterns faster and with less token overhead.
 
-> ⚡ **94.5%** token reduction &nbsp;·&nbsp; 🚀 **70% faster** queries &nbsp;·&nbsp; 🕸️ WCC + PageRank + 3-hop BFS
+> ⚡ High-efficiency retrieval · 🕸️ Graph-based reasoning · 🧠 LLM-assisted decision support
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [StepOne Content Intelligence Engine](https://contentengine-rust.vercel.app)
+### 🧠 StepOne Content Intelligence
 
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-1a1a2e?style=flat-square&logo=openai&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=white)
-[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://contentengine-rust.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-06B6D4?style=flat-square&logo=openai&logoColor=white)
 
-Multimodal AI pipeline for zero-intervention marketing asset generation.
+A multimodal pipeline for turning raw content inputs into polished, multi-platform assets in minutes.
 
-> 📸 **20 images** ingested &nbsp;·&nbsp; ⏱️ Output in **< 3 minutes** &nbsp;·&nbsp; 🎯 4D quality scoring
+> 📸 Vision + language workflows · ⚙️ Fast prototyping · 🎯 Quality scoring loops
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Automated GRC Engine](https://grcautomation.vercel.app)
+### 🛡️ Automated GRC Engine
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)
-[![Live](https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://grcautomation.vercel.app)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-7C3AED?style=flat-square&logo=scikit-learn&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-Intelligent compliance automation engine for security operations.
+A compliance automation layer that maps live alerts to frameworks and surfaces actionable risk signals.
 
-> 📋 **NIST & ISO 27001** mapped &nbsp;·&nbsp; 🤖 Real-time violation flagging &nbsp;·&nbsp; 📄 Audit-ready reports
+> 📋 NIST + ISO 27001 mapping · 🤖 Real-time risk prioritization · 📄 Audit-ready reporting
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Customer Emotion → Offer Mapper](https://github.com/neeti26/emotion_offer_mapper_project)
+### 💬 Emotion → Offer Mapper
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1a1a2e?style=flat-square&logo=spacy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white)
-[![Code](https://img.shields.io/badge/View%20Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/neeti26/emotion_offer_mapper_project)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=spacy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-06B6D4?style=flat-square&logo=scikit-learn&logoColor=white)
 
-Predictive model mapping customer sentiment to optimal product offers.
+A machine learning project that links emotional signals to better-targeted product recommendations.
 
-> 📈 **20% increase** in offer relevance &nbsp;·&nbsp; 🏷️ Multi-class emotion classification
+> 📈 Better relevance · 🏷️ Multi-class intent modeling · 🧪 Data-first experimentation
 
 </td>
 </tr>
@@ -110,118 +116,44 @@ Predictive model mapping customer sentiment to optimal product offers.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🧠 Artificial Intelligence & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFA6?style=for-the-badge&logo=ultralytics&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-### 🗄️ Databases & Infrastructure
 ![TigerGraph](https://img.shields.io/badge/TigerGraph-E34A26?style=for-the-badge&logo=tigergraph&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 💻 Full-Stack Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔧 Tools & Analytics
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+---
+
+## 📈 GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeti26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeti26&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
 ---
 
-## 💼 Experience
+## 🌐 Let’s Build Something Bold
 
-<table>
-<tr>
-<td valign="top" width="50%">
+If you’re building in AI, data systems, or product-driven automation, I’d love to connect.
 
-**🔐 Cyber Intern — CYNKEX**
-`Jan 2026 – Present` &nbsp;|&nbsp; Pune, India · Onsite
-
-Automating GRC workflows and building ML-driven risk management systems that map real-time threat indicators to NIST and ISO 27001 compliance frameworks.
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=white) ![GRC](https://img.shields.io/badge/GRC_Automation-1a1a2e?style=flat-square&logo=shield&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**🤖 Artificial Intelligence Intern — Springboard**
-`Oct 2025 – Dec 2025` &nbsp;|&nbsp; Remote
-
-Built a Smart Traffic Management System using YOLOv8 and TensorFlow for real-time ANPR and vehicle classification. Integrated OpenCV pipelines for live video feed processing.
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a2e?style=flat-square&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**📊 Data Analyst Intern — NIT Trichy**
-`Mar 2025 – Aug 2025` &nbsp;|&nbsp; Onsite
-
-Built ML classification models to detect fraudulent vehicle insurance claims, achieving **30% accuracy boost** via feature engineering and SMOTE oversampling. Tuned with GridSearchCV.
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**📈 Data Science Intern — AdTech Digital**
-`Dec 2024 – Jun 2025` &nbsp;|&nbsp; Remote
-
-Optimized Power BI dashboards for marketing teams and identified a **15% drop in user retention** through cohort analysis, delivering insights that redirected campaign strategy for better ROI.
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/neeti-malu"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:neetimalu@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <div align="center">
-
-<a href="https://neetieportfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/neeti-malu" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:neetimalu@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/neeti26" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<sub>Thanks for visiting — let's connect and build something great together 🚀</sub>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=100&section=footer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>

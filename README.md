@@ -1,13 +1,17 @@
 <img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:7c3aed,100:06b6d4&height=240&section=header&text=Neeti%20Malu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:7c3aed,100:06b6d4&height=240&section=header&text=Neeti%20Malu&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Building+the+future+of+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;Designing+systems+that+think%2C+reason%2C+and+act;Open+to+high-impact+AI%2FML%2FData+Science+roles+%F0%9F%9A%80" alt="typing animation" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=neeti26&theme=react-dark&bg_color=020617&color=8b5cf6&line=06b6d4&point=ffffff&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">

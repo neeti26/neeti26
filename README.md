@@ -1,12 +1,12 @@
-<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:06b6d4&height=220&section=header&text=Neeti%20Malu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=62&descSize=15&descColor=e2e8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Neeti%20Malu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+the+next+wave+of+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;From+raw+data+to+autonomous+decision+systems;Open+to+high-impact+AI+%2F+ML+roles+%F0%9F%9A%80" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+high-impact+AI+products;GraphRAG+%7C+Computer+Vision+%7C+NLP+%7C+GRC+Automation;Turning+complex+data+into+reliable+decision+systems;Open+to+AI%2FML%2FData+Science+opportunities+%F0%9F%9A%80" alt="typing animation" />
   </a>
 </p>
 
@@ -19,41 +19,41 @@
 
 ---
 
-## ✦ About Me
+## ✦ About
 
-I build intelligent systems that turn complex data into reliable decisions, automation, and measurable business impact. My work spans AI product development, graph-based reasoning, multimodal workflows, and compliance technology.
+I build intelligent systems that turn complex data into practical decisions, automation, and measurable business impact. My work sits at the intersection of AI product development, graph intelligence, multimodal workflows, and compliance technology.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Education-BCA%20%7C%20Bharati%20Vidyapeeth-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GPA-8.95%2F10-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Production%20AI-10B981?style=for-the-badge" />
+
+</div>
 
 - 🎓 BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10
-- 🔐 Building AI solutions for fraud intelligence, risk automation, and intelligent content generation
-- ⚡ Focused on production-grade LLM applications, applied machine learning, and scalable data systems
+- 🔐 Building AI systems for fraud intelligence, risk automation, and intelligent content generation
+- ⚡ Focused on scalable LLM applications, applied ML, and modern data infrastructure
 
 ---
 
-## ⚡ Current Focus
+## ⚡ What I Work On
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20high%20impact%20AI%20roles-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20high-impact%20AI%20roles-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-06B6D4?style=for-the-badge&logo=globe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Shipping%20production%20AI-10B981?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Shipping%20AI%20products-10B981?style=for-the-badge&logo=cpu&logoColor=white" />
 </div>
 
-> Building systems that reason over relationships, understand multimodal inputs, and automate decisions at product scale.
+> I’m interested in building systems that reason over relationships, understand multimodal input, and automate critical decisions with reliability.
 
-<div align="center">
-
-<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GraphRAG-Fraud%20Intelligence-8B5CF6?style=for-the-badge&logo=graph&logoColor=white" /></a>
-<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/Multimodal-AI%20Pipelines-06B6D4?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GRC-Automation-10B981?style=for-the-badge&logo=shield&logoColor=white" /></a>
-
-</div>
-
-- 🕸️ Designing graph-native retrieval systems that reduce noise and improve reasoning quality
-- 🧠 Building multimodal pipelines that turn images, text, and context into rapid creative output
-- 🛡️ Automating compliance and risk-critical workflows with intelligent decision layers
+- 🕸️ Designing graph-native retrieval systems for intelligence and reasoning
+- 🧠 Building multimodal pipelines that turn raw inputs into polished outputs
+- 🛡️ Automating compliance and risk workflows with intelligent decision layers
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Selected Work
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ I build intelligent systems that turn complex data into reliable decisions, auto
 ![TigerGraph](https://img.shields.io/badge/TigerGraph-7C3AED?style=flat-square&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
 
-A graph-powered fraud intelligence platform designed to surface suspicious patterns with greater precision and lower inference cost.
+A graph-powered fraud intelligence platform engineered to uncover suspicious patterns with higher precision and lower inference cost.
 
 > ⚡ Efficient retrieval · 🕸️ Graph reasoning · 🧠 Decision support at scale
 
@@ -78,7 +78,7 @@ A graph-powered fraud intelligence platform designed to surface suspicious patte
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-06B6D4?style=flat-square&logo=openai&logoColor=white)
 
-A multimodal pipeline that transforms raw inputs into polished, multi-platform assets with minimal manual overhead.
+A multimodal pipeline that transforms raw inputs into polished, multi-platform assets with minimal manual effort.
 
 > 📸 Vision + language workflows · ⚙️ Rapid prototyping · 🎯 Quality scoring loops
 
@@ -116,7 +116,7 @@ A machine-learning project that connects behavioral signals to more relevant, hi
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Core Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -145,7 +145,7 @@ A machine-learning project that connects behavioral signals to more relevant, hi
 
 ---
 
-## 🌐 Let’s Build Something Bold
+## 🌐 Let’s Connect
 
 If you’re building in AI, data systems, or product-driven automation, I’d love to connect.
 

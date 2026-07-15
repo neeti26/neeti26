@@ -1,7 +1,72 @@
 <img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:7c3aed,100:06b6d4&height=240&section=header&text=Neeti%20Malu&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GraphRAG%20%7C%20Multimodal%20Systems%20%7C%20GRC%20Automation&descAlignY=60&descSize=14&descColor=e2e8f0" width="100%" />
+  <svg width="100%" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#020617" />
+        <stop offset="50%" stop-color="#111827" />
+        <stop offset="100%" stop-color="#0f172a" />
+      </linearGradient>
+      <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#67e8f9" />
+        <stop offset="45%" stop-color="#8b5cf6" />
+        <stop offset="100%" stop-color="#0f172a" />
+      </radialGradient>
+      <linearGradient id="wireGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#22d3ee" />
+        <stop offset="100%" stop-color="#8b5cf6" />
+      </linearGradient>
+      <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+        <feGaussianBlur stdDeviation="8" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+      <filter id="depth" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.45" />
+      </filter>
+    </defs>
+    <rect x="0" y="0" width="1200" height="340" rx="28" fill="url(#bgGlow)" />
+    <circle cx="980" cy="78" r="140" fill="#1d4ed8" opacity="0.16" />
+    <circle cx="240" cy="270" r="180" fill="#8b5cf6" opacity="0.14" />
+    <g filter="url(#depth)">
+      <circle cx="600" cy="170" r="86" fill="url(#coreGlow)" opacity="0.95" />
+      <circle cx="600" cy="170" r="56" fill="#e0f2fe" opacity="0.16" />
+      <circle cx="600" cy="170" r="38" fill="#f8fafc" opacity="0.18" />
+      <path d="M600 86 L600 254" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
+      <path d="M520 115 L680 225" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
+      <path d="M520 225 L680 115" stroke="#67e8f9" stroke-width="2" opacity="0.45" />
+    </g>
+    <g filter="url(#softGlow)">
+      <g transform="translate(600 170) rotate(-28)">
+        <rect x="-95" y="-95" width="190" height="190" rx="34" fill="none" stroke="url(#wireGlow)" stroke-width="3" />
+        <rect x="-66" y="-66" width="132" height="132" rx="24" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.7" />
+        <path d="M-90 0 L-66 0" stroke="url(#wireGlow)" stroke-width="3" />
+        <path d="M66 0 L90 0" stroke="url(#wireGlow)" stroke-width="3" />
+        <path d="M0 -90 L0 -66" stroke="url(#wireGlow)" stroke-width="3" />
+        <path d="M0 66 L0 90" stroke="url(#wireGlow)" stroke-width="3" />
+      </g>
+      <g stroke="url(#wireGlow)" stroke-width="3" fill="none" stroke-linecap="round">
+        <path d="M360 128 C430 92, 490 92, 540 128" />
+        <path d="M660 212 C730 248, 790 248, 840 212" />
+        <path d="M360 212 C430 248, 490 248, 540 212" />
+        <path d="M660 128 C730 92, 790 92, 840 128" />
+      </g>
+      <circle cx="352" cy="128" r="7" fill="#67e8f9" />
+      <circle cx="540" cy="128" r="7" fill="#8b5cf6" />
+      <circle cx="352" cy="212" r="7" fill="#8b5cf6" />
+      <circle cx="540" cy="212" r="7" fill="#67e8f9" />
+      <circle cx="840" cy="128" r="7" fill="#67e8f9" />
+      <circle cx="840" cy="212" r="7" fill="#8b5cf6" />
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif" fill="#f8fafc">
+      <text x="92" y="124" font-size="24" font-weight="700" letter-spacing="3">NEETI AI</text>
+      <text x="92" y="160" font-size="44" font-weight="800">Building the future of intelligence</text>
+      <text x="92" y="198" font-size="20" fill="#cbd5e1">GraphRAG • Multimodal Systems • GRC Automation • Agentic AI</text>
+    </g>
+  </svg>
 </p>
 
 <p align="center">

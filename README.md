@@ -1,6 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/neeti26)
 
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1677442d019cecf8d5a32eb4d0f80fc77befe5cf6?w=1000&h=400&fit=crop" alt="AI Neural Network" width="100%" />
   
   # 🧠 Neeti Malu
   **AI Systems Engineer | GraphRAG | Multimodal AI | Compliance Automation**

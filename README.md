@@ -1,14 +1,10 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/neeti26)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neeti26/neeti26/main/ai-hero.svg" alt="AI Neural Network" width="100%" />
+  <video autoplay muted loop playsinline poster="https://raw.githubusercontent.com/neeti26/neeti26/main/ai-hero.svg" width="100%" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 40px rgba(0,217,255,0.18);">
+    <source src="https://raw.githubusercontent.com/neeti26/neeti26/main/no_more_ai_focused_no_script_a.mp4" type="video/mp4">
+  </video>
 </div>
-
-<p align="center">
-  <a href="https://share.gemini.google/huad9WWqB1dC">
-    <img src="https://img.shields.io/badge/Open%20Shared%20AI%20Visual-View%20Now-00d9ff?style=for-the-badge&logo=google" alt="Open shared AI visual" />
-  </a>
-</p>
 
 ---
 

@@ -17,18 +17,26 @@
   <a href="https://github.com/neeti26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Graph%20%26%20Multimodal%20AI-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Shipping%20production%20systems-10B981?style=for-the-badge" />
+</div>
+
+<p align="center">
+  <code>system status: online · graph reasoning active · multimodal pipelines live · compliance automation running</code>
+</p>
+
 ---
 
-## ✦ About
+## ✦ Mission
 
-I build intelligent systems that turn complex data into practical decisions, automation, and measurable impact. My work sits at the intersection of AI product development, graph intelligence, multimodal workflows, and compliance technology.
+I build high-leverage AI systems that turn complexity into clarity, automation, and measurable impact. My work exists at the intersection of intelligent products, graph-based reasoning, multimodal workflows, and trust-centered automation.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Education-BCA%20%7C%20Bharati%20Vidyapeeth-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GPA-8.95%2F10-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Production%20AI-10B981?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Impact-94.5%25%20token%20reduction-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speed-70%25%20faster%20queries-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Fraud%20%7C%20GRC%20%7C%20Content%20AI-8B5CF6?style=for-the-badge" />
 </div>
 
 - 🎓 BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10
@@ -39,17 +47,15 @@ I build intelligent systems that turn complex data into practical decisions, aut
 
 ## ⚡ Core Focus
 
+- 🕸️ Designing graph-native retrieval systems that improve reasoning quality and reduce noise
+- 🧠 Building multimodal pipelines that turn raw inputs into polished, production-ready outputs
+- 🛡️ Automating compliance and risk-critical workflows with intelligent decision layers
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20high-impact%20AI%20roles-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-06B6D4?style=for-the-badge&logo=globe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Shipping%20AI%20products-10B981?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-GraphRAG%20%2B%20LLMs-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Computer%20Vision%20%2B%20NLP-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-GRC%20Automation-10B981?style=for-the-badge" />
 </div>
-
-> I create systems that reason over relationships, understand multimodal input, and automate critical decisions with reliability.
-
-- 🕸️ Designing graph-native retrieval systems for intelligence and reasoning
-- 🧠 Building multimodal pipelines that turn raw inputs into polished outputs
-- 🛡️ Automating compliance and risk workflows with intelligent decision layers
 
 ---
 

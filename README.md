@@ -43,7 +43,7 @@
 
 ## ✦ Mission
 
-I build high-leverage AI systems that turn complexity into clarity, automation, and measurable impact. My work exists at the intersection of intelligent products, graph-based reasoning, multimodal workflows, and trust-centered automation.
+I design and build AI systems that turn signal into intelligence, intelligence into automation, and automation into real-world impact. My work is centered on advanced reasoning, multimodal understanding, and high-performance AI products.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Impact-94.5%25%20token%20reduction-10B981?style=for-the-badge" />
@@ -51,9 +51,9 @@ I build high-leverage AI systems that turn complexity into clarity, automation, 
   <img src="https://img.shields.io/badge/Domain-Fraud%20%7C%20GRC%20%7C%20Content%20AI-8B5CF6?style=for-the-badge" />
 </div>
 
-- 🎓 BCA · Bharati Vidyapeeth Deemed University · GPA 8.95/10
-- 🔐 Building AI systems for fraud intelligence, risk automation, and intelligent content generation
-- ⚡ Focused on scalable LLM applications, applied ML, and modern data infrastructure
+- 🤖 Building next-generation AI products for reasoning, automation, and decision support
+- 🧠 Working across GraphRAG, LLMs, computer vision, NLP, and agentic workflows
+- ⚡ Focused on scalable, production-grade AI systems and intelligent infrastructure
 
 ---
 
@@ -62,11 +62,12 @@ I build high-leverage AI systems that turn complexity into clarity, automation, 
 - 🕸️ Designing graph-native retrieval systems that improve reasoning quality and reduce noise
 - 🧠 Building multimodal pipelines that turn raw inputs into polished, production-ready outputs
 - 🛡️ Automating compliance and risk-critical workflows with intelligent decision layers
+- 🤖 Exploring agentic AI, reasoning frameworks, and intelligent orchestration systems
 
 <div align="center">
   <img src="https://img.shields.io/badge/Stack-GraphRAG%20%2B%20LLMs-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-Computer%20Vision%20%2B%20NLP-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-GRC%20Automation-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Agentic%20AI-10B981?style=for-the-badge" />
 </div>
 
 ---

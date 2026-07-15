@@ -1,117 +1,13 @@
-<img src="https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/neeti26)
 
-<p align="center">
-  <svg width="100%" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #020617 0%, #111827 50%, #0f172a 100%);">
-    <defs>
-      <linearGradient id="neuralFlow" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#00d9ff" />
-        <stop offset="50%" stop-color="#0084ff" />
-        <stop offset="100%" stop-color="#7c3aed" />
-      </linearGradient>
-      <radialGradient id="brainCore" cx="40%" cy="50%" r="60%">
-        <stop offset="0%" stop-color="#00ffff" stop-opacity="0.8" />
-        <stop offset="40%" stop-color="#0084ff" stop-opacity="0.6" />
-        <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.2" />
-      </radialGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-      <filter id="deepGlow">
-        <feGaussianBlur stdDeviation="8" result="coloredBlur" />
-        <feMerge>
-          <feMergeNode in="coloredBlur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    
-    <!-- Brain hemisphere outline -->
-    <g filter="url(#deepGlow)">
-      <path d="M 380 180 Q 400 140 420 120 Q 440 100 460 90 Q 480 85 500 90 Q 520 95 540 110 Q 560 125 570 145 Q 580 165 575 185 Q 570 205 560 220 Q 550 230 535 235 Q 520 240 500 238 Q 480 235 460 230 Q 440 225 420 220 Q 400 215 385 205 Q 375 195 380 180 Z" fill="url(#brainCore)" stroke="#00ffff" stroke-width="2" opacity="0.9" />
-      
-      <!-- Brain convolutions -->
-      <path d="M 420 150 Q 430 145 440 150" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.8" />
-      <path d="M 420 170 Q 435 165 450 170" fill="none" stroke="#0084ff" stroke-width="2" opacity="0.7" />
-      <path d="M 425 190 Q 440 188 455 192" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.8" />
-      <path d="M 430 210 Q 445 208 460 212" fill="none" stroke="#0084ff" stroke-width="2" opacity="0.7" />
-    </g>
-    
-    <!-- Binary/AI pattern inside brain -->
-    <g font-family="monospace" font-size="10" fill="#00ffff" opacity="0.6" filter="url(#glow)">
-      <text x="420" y="155">1</text>
-      <text x="435" y="145">0</text>
-      <text x="450" y="160">1</text>
-      <text x="428" y="175">1</text>
-      <text x="445" y="185">0</text>
-      <text x="460" y="175">1</text>
-      <text x="420" y="200">0</text>
-      <text x="440" y="210">1</text>
-      <text x="455" y="200">1</text>
-      <text x="430" y="220">1</text>
-      <text x="450" y="228">0</text>
-    </g>
-    
-    <!-- Neural connections - left side (input) -->
-    <g stroke="url(#neuralFlow)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85" filter="url(#glow)">
-      <path d="M 200 140 Q 280 160 380 180" />
-      <path d="M 200 180 Q 290 180 380 190" />
-      <path d="M 200 220 Q 280 200 380 200" />
-      <path d="M 200 260 Q 290 220 380 210" />
-    </g>
-    
-    <!-- Input node points (left) -->
-    <circle cx="200" cy="140" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
-    <circle cx="200" cy="180" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
-    <circle cx="200" cy="220" r="5" fill="#0084ff" opacity="0.8" filter="url(#glow)" />
-    <circle cx="200" cy="260" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
-    
-    <!-- Central brain sphere -->
-    <circle cx="470" cy="190" r="95" fill="none" stroke="url(#neuralFlow)" stroke-width="3" opacity="0.5" />
-    <circle cx="470" cy="190" r="75" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.4" />
-    
-    <!-- Neural connections - right side (output) -->
-    <g stroke="url(#neuralFlow)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85" filter="url(#glow)">
-      <path d="M 560 165 Q 700 145 900 110" />
-      <path d="M 565 190 Q 720 180 920 170" />
-      <path d="M 560 215 Q 700 220 900 250" />
-      <path d="M 555 235 Q 710 250 920 290" />
-    </g>
-    
-    <!-- Output node points (right) -->
-    <circle cx="900" cy="110" r="5" fill="#7c3aed" opacity="0.9" filter="url(#glow)" />
-    <circle cx="920" cy="170" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
-    <circle cx="900" cy="250" r="5" fill="#7c3aed" opacity="0.9" filter="url(#glow)" />
-    <circle cx="920" cy="290" r="5" fill="#00ffff" opacity="0.9" filter="url(#glow)" />
-    
-    <!-- Circuit-like nodes -->
-    <g fill="#00ffff" opacity="0.7" filter="url(#glow)">
-      <circle cx="650" cy="120" r="4" />
-      <circle cx="680" cy="145" r="4" />
-      <circle cx="720" cy="160" r="4" />
-      <circle cx="750" cy="140" r="4" />
-      <circle cx="800" cy="120" r="4" />
-      <circle cx="650" cy="260" r="4" />
-      <circle cx="680" cy="235" r="4" />
-      <circle cx="720" cy="250" r="4" />
-      <circle cx="760" cy="270" r="4" />
-      <circle cx="810" cy="280" r="4" />
-    </g>
-    
-    <!-- Text labels -->
-    <g font-family="Arial, sans-serif" fill="#f8fafc" font-weight="700">
-      <text x="80" y="340" font-size="32" font-weight="800">Neeti Malu</text>
-      <text x="80" y="375" font-size="18" font-weight="600" fill="#cbd5e1">AI Systems Engineer | GraphRAG | Multimodal AI | GRC Automation</text>
-      <text x="80" y="405" font-size="14" fill="#94a3b8">Building intelligent systems that turn data into decisions</text>
-    </g>
-    
-    <!-- Animated pulse effect markers -->
-    <circle cx="470" cy="190" r="90" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.2" />
-  </svg>
-</p>
+<div align="center">
+  
+  # 🧠 Neeti Malu
+  **AI Systems Engineer | GraphRAG | Multimodal AI | Compliance Automation**
+  
+  *Building intelligent systems that turn data into decisions*
+  
+</div>
 
 ---
 

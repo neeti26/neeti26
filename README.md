@@ -2,12 +2,18 @@
 
 <div align="center">
   <img src="https://specials-images.forbesimg.com/imageserve/64b5825a5b9b4d3225e9bd15/960x0.jpg" alt="AI Neural Network" width="100%" />
+</div>
+
+---
+
+<div align="center">
   
-  # 🧠 Neeti Malu
-  **AI Systems Engineer | GraphRAG | Multimodal AI | Compliance Automation**
-  
-  *Building intelligent systems that turn data into decisions*
-  
+## Neeti Malu
+
+**AI Systems Engineer** | **GraphRAG** | **Multimodal AI** | **Compliance Automation**
+
+> Building intelligent systems that turn data into decisions
+
 </div>
 
 ---

@@ -7,13 +7,15 @@
 ---
 
 <div align="center">
-  
-## Neeti Malu
-
-**AI Systems Engineer** | **GraphRAG** | **Multimodal AI** | **Compliance Automation**
-
-> Building intelligent systems that turn data into decisions
-
+  <div style="display:inline-block; padding:20px 28px; border:1px solid rgba(255,255,255,0.14); border-radius:20px; background:linear-gradient(135deg, rgba(0,217,255,0.14), rgba(124,58,237,0.16)); box-shadow:0 0 30px rgba(0,217,255,0.16);">
+    <h1 style="margin:0; font-family:'Segoe UI', 'Trebuchet MS', Arial, sans-serif; font-size:42px; font-weight:800; letter-spacing:2px; background:linear-gradient(90deg, #00f5ff, #7c3aed, #00d9ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 22px rgba(0,245,255,0.25);">Neeti Malu</h1>
+    <p style="margin:10px 0 0; font-size:18px; font-weight:700; color:#e2e8f0; letter-spacing:1.2px;">
+      <span style="color:#00d9ff;">AI Systems Engineer</span> • <span style="color:#8b5cf6;">GraphRAG</span> • <span style="color:#38bdf8;">Multimodal AI</span> • <span style="color:#a78bfa;">Compliance Automation</span>
+    </p>
+    <p style="margin:10px 0 0; font-size:15px; font-style:italic; color:#cbd5e1; letter-spacing:0.7px;">
+      Building intelligent systems that turn data into decisions
+    </p>
+  </div>
 </div>
 
 ---

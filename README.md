@@ -4,6 +4,12 @@
   <img src="https://raw.githubusercontent.com/neeti26/neeti26/main/ai-hero.svg" alt="AI Neural Network" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://share.gemini.google/huad9WWqB1dC">
+    <img src="https://img.shields.io/badge/Open%20Shared%20AI%20Visual-View%20Now-00d9ff?style=for-the-badge&logo=google" alt="Open shared AI visual" />
+  </a>
+</p>
+
 ---
 
 <div align="center">

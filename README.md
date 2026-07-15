@@ -1,9 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=neeti26&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/neeti26)
 
 <div align="center">
-  <video autoplay muted loop playsinline poster="https://raw.githubusercontent.com/neeti26/neeti26/main/ai-hero.svg" width="100%" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 40px rgba(0,217,255,0.18);">
-    <source src="https://raw.githubusercontent.com/neeti26/neeti26/main/no_more_ai_focused_no_script_a.mp4" type="video/mp4">
-  </video>
+  <img src="https://raw.githubusercontent.com/neeti26/neeti26/main/hero-video.gif" alt="AI animated visual" width="100%" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 40px rgba(0,217,255,0.18);" />
 </div>
 
 ---
